@@ -1,0 +1,4 @@
+name: SmartMention
+version: '1.0-SNAPSHOT'
+main: com.github.inviousstudio.smartmention.SmartMention
+api-version: '1.21'
